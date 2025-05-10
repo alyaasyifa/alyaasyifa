@@ -4,7 +4,6 @@
 <!-- Perkenalan -->
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="20px" />  I'm <b>Alya Nursyifa 👩‍💻</b>
-#### <i>Frontend Developer</i>
 
 <!-- Social Links -->
  <a href="https://www.linkedin.com/in/alyanursyifa/">
